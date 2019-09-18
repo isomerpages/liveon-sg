@@ -1,0 +1,33 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Home
+  url: /
+- title: About Organ Donation
+  url: /about-organ-donation/
+  sub-links:
+  - title: Living Organ Donation
+    url: /organ-donation/living-organ-donation/
+  - title: Facts About Organ Donation
+    url: /organ-donation/facts-about-organ-donation/
+- title: Support Organ Donation
+  url: /support-organ-donation/
+  sub-links:
+  - title: Yes, I Support Organ Donation
+    url: /support-organ-donation/yes-i-support-organ-donation/
+  - title: What My Family Should Know
+    url: /support-organ-donation/what-my-family-should-know/
+  - title: Which Organs Can I Donate?
+    url: /support-organ-donation/which-organs-can-i-donate/
+- title: True Stories
+  url: /true-stories/
+- title: Resources
+  url: /resources/
+- title: FAQ
+  url: /faq/
+- title: Contact Us
+  url: /contact-us/
+  

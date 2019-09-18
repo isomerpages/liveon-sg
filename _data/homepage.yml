@@ -1,0 +1,26 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/live-on-logo.svg
+
+# Hero Banner
+# hero-title: WE LIVE ON BECAUSE OF YOU
+hero-banner: /images/hero-banner.jpg
+
+#Call to Action Button
+#button:
+#  - text: Read More
+#    url: /true-stories/
+
+# Info Sections
+info-sections:
+  - section-subtitle: What is organ donation?
+    section-description: Organ donation is one of the greatest gifts you can give. An organ transplant can save a life or significantly improve someone’s quality of life whose organ has failed. It is usually the only solution when healthy organs fail and no other treatment is available.
+    section-image-path: /images/img1.jpg
