@@ -11,13 +11,13 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/live-on-logo.svg
 
 # Hero Banner
-# hero-title: WE LIVE ON BECAUSE OF YOU
+hero-title: WE LIVE ON BECAUSE OF YOU
 hero-banner: /images/hero-banner.jpg
 
 #Call to Action Button
-#button:
-#  - text: Read More
-#    url: /true-stories/
+button:
+  - text: Read More
+    url: /true-stories/
 
 # Info Sections
 info-sections:
